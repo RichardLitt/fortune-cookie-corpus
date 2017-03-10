@@ -13,6 +13,12 @@
   "reverse": {
     "raw": "Vous serez récompensé pour vos efforts.",
     "language": "French"
+  },
+{
+  "fortune": "Stop searching forever, happiness is just next to you.",
+  "reverse": {
+    "raw": "Cessez de chercher sans arrêt, le bonheur est tout près de vous.",
+    "language": "French"
   }
 }
 ]
