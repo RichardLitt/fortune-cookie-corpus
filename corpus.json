@@ -31,5 +31,15 @@
       "raw": "Cessez de chercher sans arrêt, le bonheur est tout près de vous.",
       "language": "French"
     }
+  },
+  {
+    "front": {
+      "fortune": "You will be proud in manner but tolerant and generous.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Vous serez fier dans vos agissements mais toléran et généreux.",
+      "language": "French"
+    }
   }
 ]
