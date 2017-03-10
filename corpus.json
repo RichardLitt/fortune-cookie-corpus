@@ -1,24 +1,35 @@
-[{
-  "fortune": "Never quit!",
-  "reverse": {
-    "raw": "LEARN CHINESE - Cucumber\n黃(huáng)瓜(guā)\nLucky Numbers 12, 22, 44, 35, 45, 2",
-    "language": "chinese",
-    "learn-chinese": "Cucumber",
-    "chinese": "黃(huáng)瓜(guā)",
-    "lucky-numbers": [12, 22, 44, 35, 45, 2]
+[
+  {
+    "front": {
+      "text": "Never quit!",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "LEARN CHINESE - Cucumber\n黃(huáng)瓜(guā)\nLucky Numbers 12, 22, 44, 35, 45, 2",
+      "language": "chinese",
+      "learn-chinese": "Cucumber",
+      "chinese": "黃(huáng)瓜(guā)",
+      "lucky-numbers": [12, 22, 44, 35, 45, 2]
+    }
+  },
+  {
+    "front": {
+      "fortune": "You will be rewarded for your efforts.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Vous serez récompensé pour vos efforts.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "Stop searching forever, happiness is just next to you.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Cessez de chercher sans arrêt, le bonheur est tout près de vous.",
+      "language": "French"
+    }
   }
-},
-{
-  "fortune": "You will be rewarded for your efforts.",
-  "reverse": {
-    "raw": "Vous serez récompensé pour vos efforts.",
-    "language": "French"
-  }
-},
-{
-  "fortune": "Stop searching forever, happiness is just next to you.",
-  "reverse": {
-    "raw": "Cessez de chercher sans arrêt, le bonheur est tout près de vous.",
-    "language": "French"
-  }
-}]
+]
