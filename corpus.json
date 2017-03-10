@@ -2,8 +2,17 @@
   "fortune": "Never quit!",
   "reverse": {
     "raw": "LEARN CHINESE - Cucumber\n黃(huáng)瓜(guā)\nLucky Numbers 12, 22, 44, 35, 45, 2",
+    "language": "chinese",
     "learn-chinese": "Cucumber",
     "chinese": "黃(huáng)瓜(guā)",
     "lucky-numbers": [12, 22, 44, 35, 45, 2]
   }
-}]
+},
+{
+  "fortune": "You will be rewarded for your efforts.",
+  "reverse": {
+    "raw": "Vous serez récompensé pour vos efforts.",
+    "language": "French"
+  }
+}
+]
