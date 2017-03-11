@@ -171,5 +171,45 @@
       "raw": "Vous êtes une personne cultivée.",
       "language": "French"
     }
+  },
+  {
+    "front": {
+      "fortune": "You will step on the soil of many countries.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Vos pieds fouleront la terre de nombreux pays.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "You love Chinese food.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Vous adorez la nourriture chinoise.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "A liear is not believed even though he tells the truth.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Même si un menteur dit la vérite, il ne sera pa cru.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "You get what you want through your charm and personality.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Vous obtiendrez ce que vous désirez grâce à votre personnalité et votre charme.",
+      "language": "French"
+    }
   }
 ]
