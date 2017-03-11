@@ -151,5 +151,25 @@
       "raw": "Acceptez la prochaine proposition que vous entendrez.",
       "language": "French"
     }
+  },
+  {
+    "front": {
+      "fortune": "What's vice today may be virtue tomorrow.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Vice d'aujourd'hui peut devenir vertu de demain.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "You are a person of culture.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Vous êtes une personne cultivée.",
+      "language": "French"
+    }
   }
 ]
