@@ -211,5 +211,25 @@
       "raw": "Vous obtiendrez ce que vous désirez grâce à votre personnalité et votre charme.",
       "language": "French"
     }
+  },
+  {
+    "front": {
+      "fortune": "Be spontaneous.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Soyez Spontané.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "People find it difficult to resist your persuasive manner.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Les gens parviennent difficilement à résister à votre persuasion.",
+      "language": "French"
+    }
   }
 ]
