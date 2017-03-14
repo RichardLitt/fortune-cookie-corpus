@@ -231,5 +231,25 @@
       "raw": "Les gens parviennent difficilement à résister à votre persuasion.",
       "language": "French"
     }
+  },
+  {
+    "front": {
+      "fortune": "Keep your plans secret for now.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "ne dévoilez pas vos plans immédiatement.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "You are never bitter, deceptive or petty.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Vous n'êtes jamais amer, trompeur ou médiocre.",
+      "language": "French"
+    }
   }
 ]
